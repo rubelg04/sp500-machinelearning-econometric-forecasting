@@ -13,3 +13,9 @@ Code accompanying my dissertation on S&P 500 return forecasting.
 ## Data
 
 All scripts use yfinance to download S&P 500 (^GSPC) data. No API key required.
+
+## Folders
+
+- `outputs/` — Forecast values for each model and horizon (CSV)
+- `terminal_outputs/` — Terminal output screenshots from each model run
+- `failedmodels/` — ARIMAX script (tested but not retained, see dissertation)
